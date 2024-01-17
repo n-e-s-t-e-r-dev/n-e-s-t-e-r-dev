@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto;">
+  <div >
   
     <p align="left">
       <a href="https://github.com/n-e-s-t-e-r-dev">
