@@ -42,26 +42,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div >
+<p align="left">
+  <a href="https://github.com/n-e-s-t-e-r-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-e-s-t-e-r-dev&layout=compact&langs_count=10&theme=radical&card_width=445&title_color=8E2DE2&icon_color=4E008E&text_color=FFFFFF&bg_color=141321" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-e-s-t-e-r-dev&show_icons=true&locale=en&theme=gotham" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-e-s-t-e-r-dev&theme=merko&show_icons=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
   
-    <p align="left">
-      <a href="https://github.com/n-e-s-t-e-r-dev">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-e-s-t-e-r-dev&layout=compact&langs_count=10&theme=radical&card_width=445&title_color=8E2DE2&icon_color=4E008E&text_color=FFFFFF&bg_color=141321" alt="Top Languages" />
-      </a>
-    </p>
-
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-e-s-t-e-r-dev&show_icons=true&locale=en&theme=gotham" alt="GitHub Stats" />
-    </p>
-
-    <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-e-s-t-e-r-dev&theme=merko&show_icons=true" alt="GitHub Streak Stats" />
-    </p>
-
-  </div>
-</div>
-
+</p>
 
 ## ☕ Support
 
