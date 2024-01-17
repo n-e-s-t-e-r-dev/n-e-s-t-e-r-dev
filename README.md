@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/n-e-s-t-e-r-dev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-e-s-t-e-r-dev&layout=compact&langs_count=10&theme=radical&card_width=445&title_color=8E2DE2&icon_color=4E008E&text_color=FFFFFF&bg_color=141321" alt="Top Languages" />
   </a>
